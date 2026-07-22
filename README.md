@@ -39,3 +39,18 @@ The objective of this project is to build an intelligent machine learning model 
 - Streamlit
 
 ---
+
+# 📊 Exploratory Data Analysis (EDA)
+
+The following data analysis was performed before model building:
+
+- Missing Value Analysis
+- Duplicate Removal
+- Outlier Detection
+- Univariate Analysis
+- Bivariate Analysis
+- Correlation Analysis
+- Feature Importance Analysis
+
+---
+
