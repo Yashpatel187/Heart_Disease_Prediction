@@ -54,3 +54,17 @@ The following data analysis was performed before model building:
 
 ---
 
+# ⚙️ Data Preprocessing
+
+The following preprocessing steps were applied:
+
+- Removed duplicate records
+- Checked missing values
+- Performed outlier analysis
+- Train-Test Split
+- Feature Scaling (Experimented)
+- Model Evaluation Preparation
+
+---
+
+
