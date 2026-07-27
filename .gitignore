@@ -13,10 +13,3 @@ env/
 
 # VS Code
 .vscode/
-
-# Streamlit Configuration
-.streamlit/
-
-# Operating System Files
-.DS_Store
-Thumbs.db
