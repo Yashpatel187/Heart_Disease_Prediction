@@ -103,3 +103,137 @@ The following evaluation metrics were used:
 | XGBoost | 72.13% | 0.834 |
 
 ---
+
+# ✅ Final Model Selection
+
+After comparing all machine learning models, **Logistic Regression** achieved the best overall performance.
+
+### Reasons for selecting Logistic Regression:
+
+- Highest Accuracy
+- Highest ROC-AUC Score
+- Better Generalization
+- Less Overfitting
+- Simple and Interpretable Model
+- Suitable for this dataset
+
+---
+
+# 📌 Project Workflow
+
+```
+Data Collection
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Exploratory Data Analysis
+        │
+        ▼
+Data Preprocessing
+        │
+        ▼
+Model Training
+        │
+        ▼
+Hyperparameter Tuning
+        │
+        ▼
+Model Evaluation
+        │
+        ▼
+Model Comparison
+        │
+        ▼
+Final Model Selection
+        │
+        ▼
+Model Saving
+        │
+        ▼
+Streamlit Deployment
+```
+
+---
+
+# 📂 Project Structure
+
+```
+Heart_Disease_Prediction/
+│
+├── data/
+│   └── heart.csv
+│
+├── notebook/
+│   └── Heart_Disease_Prediction.ipynb
+│
+├── images/
+│   ├── roc_curve.png
+│   ├── feature_importance_dt.png
+│   ├── feature_importance_rf.png
+│   └── model_comparison.png
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+
+---
+
+# 📸 Project Results
+
+The project includes:
+
+- Exploratory Data Analysis
+- Feature Importance Visualization
+- ROC Curve Comparison
+- Model Comparison
+- Final Prediction Model
+
+---
+
+# 🚀 Future Improvements
+
+- Deploy using Streamlit Cloud
+- Add User Authentication
+- Connect with Database
+- Real-Time Patient Data Prediction
+- Improve User Interface
+
+---
+
+# ▶️ How to Run This Project
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Heart_Disease_Prediction.git
+```
+
+### Move into Project Directory
+
+```bash
+cd Heart_Disease_Prediction
+```
+
+### Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# 👨‍💻 Author
+
+## Yash Patel
+
+**Aspiring Data Scientist | Machine Learning Enthusiast**
+
+- 💼 LinkedIn: *(https://www.linkedin.com/in/yash-patel-67a885366/)*
+- 💻 GitHub: *((https://github.com/Yashpatel187)*
+
+---
+
+# ⭐ If you found this project useful, don't forget to star this repository.
