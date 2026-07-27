@@ -67,4 +67,28 @@ The following preprocessing steps were applied:
 
 ---
 
+# 🤖 Machine Learning Models Used
 
+The following classification algorithms were trained and evaluated:
+
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+4. XGBoost Classifier
+
+---
+
+# 📈 Model Evaluation Metrics
+
+The following evaluation metrics were used:
+
+- Accuracy Score
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
+- ROC-AUC Score
+- Cross Validation
+- Hyperparameter Tuning (GridSearchCV)
+
+---
