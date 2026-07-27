@@ -92,3 +92,14 @@ The following evaluation metrics were used:
 - Hyperparameter Tuning (GridSearchCV)
 
 ---
+
+# 🏆 Model Comparison
+
+| Model | Accuracy | ROC-AUC |
+|--------|----------|----------|
+| Logistic Regression | **80.33%** | **0.860** |
+| Decision Tree | 72.13% | 0.801 |
+| Random Forest | 77.05% | 0.857 |
+| XGBoost | 72.13% | 0.834 |
+
+---
