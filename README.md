@@ -169,10 +169,10 @@ Heart_Disease_Prediction/
 │   └── Heart_Disease_Prediction.ipynb
 │
 ├── images/
-│   ├── roc_curve.png
-│   ├── feature_importance_dt.png
-│   ├── feature_importance_rf.png
-│   └── model_comparison.png
+│   ├── Roc_Curve.png
+│   ├── feature_importance.png
+│   ├── class_distribution.png
+│   └── correlation_heatmap.png
 │
 ├── requirements.txt
 ├── README.md
